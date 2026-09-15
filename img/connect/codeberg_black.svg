@@ -5,7 +5,7 @@
    viewBox="0 0 205.38052 46.390492"
    height="175.33414"
    width="776.24133"
-   sodipodi:docname="idi-aarUCI_logos.svg"
+   sodipodi:docname="codeberg_black.svg"
    inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -21,8 +21,8 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      inkscape:zoom="1.366843"
-     inkscape:cx="388.12067"
-     inkscape:cy="87.427747"
+     inkscape:cx="388.85227"
+     inkscape:cy="87.427744"
      inkscape:window-width="1920"
      inkscape:window-height="1052"
      inkscape:window-x="0"
@@ -60,9 +60,9 @@
       <stop
          id="stop6926"
          offset="0.49517274"
-         style="stop-color:#303030;stop-opacity:1;" />
+         style="stop-color:#000000;stop-opacity:1;" />
       <stop
-         style="stop-color:#434343;stop-opacity:1;"
+         style="stop-color:#000000;stop-opacity:1;"
          offset="1"
          id="stop6922" />
     </linearGradient>
